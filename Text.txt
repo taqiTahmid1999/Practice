@@ -1,2 +1,4 @@
 Hello, this is my first git work.
 Thanks God for giving me this opportunity.
+I am trying to learn Git and GitHub.
+Allah help me to be a successfull man
